@@ -1,0 +1,19 @@
+{
+  "name": "cp-prototype",
+  "version": "0.0.1",
+  "dependencies": {
+    "animate.css": "3.1.1",
+    "bxSlider": "4.1.2",
+    "foundation": "zurb/bower-foundation#5.5.0",
+    "foundation-icon-fonts": "zurb/foundation-icon-fonts",
+    "font-awesome": "~4.2.0",
+    "jQuery.mmenu": "~4.7.4",
+    "jquery.scrollTo": "~1.4.12",
+    "jquery.transit": "~0.9.12",
+    "magnific-popup": "https://github.com/dimsemenov/Magnific-Popup.git#master",
+    "nprogress": "~0.1.6",
+    "WOW": ">=0.1.9"
+  },
+  "devDependencies": {
+  }
+}
